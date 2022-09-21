@@ -1,2 +1,2 @@
 # Html studies
- Dedicate to learn Html5
+ Dedicate to learn Html5 only  
